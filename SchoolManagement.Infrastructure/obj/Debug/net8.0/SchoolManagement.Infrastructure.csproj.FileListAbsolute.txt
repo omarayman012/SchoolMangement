@@ -1,0 +1,17 @@
+C:\Users\omar\Desktop\new nos5a\SchoolManagement\SchoolManagement.Infrastructure\obj\Debug\net8.0\SchoolManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\omar\Desktop\new nos5a\SchoolManagement\SchoolManagement.Infrastructure\obj\Debug\net8.0\SchoolManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omar\Desktop\new nos5a\SchoolManagement\SchoolManagement.Infrastructure\obj\Debug\net8.0\SchoolManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\omar\Desktop\new nos5a\SchoolManagement\SchoolManagement.Infrastructure\obj\Debug\net8.0\SchoolManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\omar\Desktop\new nos5a\SchoolManagement\SchoolManagement.Infrastructure\obj\Debug\net8.0\SchoolManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\omar\Desktop\new nos5a\SchoolManagement\SchoolManagement.Infrastructure\bin\Debug\net8.0\SchoolManagement.Infrastructure.deps.json
+C:\Users\omar\Desktop\new nos5a\SchoolManagement\SchoolManagement.Infrastructure\bin\Debug\net8.0\SchoolManagement.Infrastructure.runtimeconfig.json
+C:\Users\omar\Desktop\new nos5a\SchoolManagement\SchoolManagement.Infrastructure\bin\Debug\net8.0\SchoolManagement.Infrastructure.dll
+C:\Users\omar\Desktop\new nos5a\SchoolManagement\SchoolManagement.Infrastructure\bin\Debug\net8.0\SchoolManagement.Infrastructure.pdb
+C:\Users\omar\Desktop\new nos5a\SchoolManagement\SchoolManagement.Infrastructure\bin\Debug\net8.0\SchoolManagement.Domain.dll
+C:\Users\omar\Desktop\new nos5a\SchoolManagement\SchoolManagement.Infrastructure\bin\Debug\net8.0\SchoolManagement.Domain.pdb
+C:\Users\omar\Desktop\new nos5a\SchoolManagement\SchoolManagement.Infrastructure\obj\Debug\net8.0\SchoolMa.324EA75F.Up2Date
+C:\Users\omar\Desktop\new nos5a\SchoolManagement\SchoolManagement.Infrastructure\obj\Debug\net8.0\SchoolManagement.Infrastructure.dll
+C:\Users\omar\Desktop\new nos5a\SchoolManagement\SchoolManagement.Infrastructure\obj\Debug\net8.0\refint\SchoolManagement.Infrastructure.dll
+C:\Users\omar\Desktop\new nos5a\SchoolManagement\SchoolManagement.Infrastructure\obj\Debug\net8.0\SchoolManagement.Infrastructure.pdb
+C:\Users\omar\Desktop\new nos5a\SchoolManagement\SchoolManagement.Infrastructure\obj\Debug\net8.0\SchoolManagement.Infrastructure.genruntimeconfig.cache
+C:\Users\omar\Desktop\new nos5a\SchoolManagement\SchoolManagement.Infrastructure\obj\Debug\net8.0\ref\SchoolManagement.Infrastructure.dll

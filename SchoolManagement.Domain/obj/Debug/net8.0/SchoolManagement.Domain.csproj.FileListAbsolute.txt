@@ -9,3 +9,15 @@ C:\Users\omar\Desktop\new nos5a\SchoolManagement\SchoolManagement.Domain\obj\Deb
 C:\Users\omar\Desktop\new nos5a\SchoolManagement\SchoolManagement.Domain\obj\Debug\net8.0\refint\SchoolManagement.Domain.dll
 C:\Users\omar\Desktop\new nos5a\SchoolManagement\SchoolManagement.Domain\obj\Debug\net8.0\SchoolManagement.Domain.pdb
 C:\Users\omar\Desktop\new nos5a\SchoolManagement\SchoolManagement.Domain\obj\Debug\net8.0\ref\SchoolManagement.Domain.dll
+C:\Users\DELL\source\repos\SchoolMangement\SchoolManagement.Domain\bin\Debug\net8.0\SchoolManagement.Domain.deps.json
+C:\Users\DELL\source\repos\SchoolMangement\SchoolManagement.Domain\bin\Debug\net8.0\SchoolManagement.Domain.dll
+C:\Users\DELL\source\repos\SchoolMangement\SchoolManagement.Domain\bin\Debug\net8.0\SchoolManagement.Domain.pdb
+C:\Users\DELL\source\repos\SchoolMangement\SchoolManagement.Domain\obj\Debug\net8.0\SchoolManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\SchoolMangement\SchoolManagement.Domain\obj\Debug\net8.0\SchoolManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\SchoolMangement\SchoolManagement.Domain\obj\Debug\net8.0\SchoolManagement.Domain.AssemblyInfo.cs
+C:\Users\DELL\source\repos\SchoolMangement\SchoolManagement.Domain\obj\Debug\net8.0\SchoolManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\SchoolMangement\SchoolManagement.Domain\obj\Debug\net8.0\SchoolManagement.Domain.sourcelink.json
+C:\Users\DELL\source\repos\SchoolMangement\SchoolManagement.Domain\obj\Debug\net8.0\SchoolManagement.Domain.dll
+C:\Users\DELL\source\repos\SchoolMangement\SchoolManagement.Domain\obj\Debug\net8.0\refint\SchoolManagement.Domain.dll
+C:\Users\DELL\source\repos\SchoolMangement\SchoolManagement.Domain\obj\Debug\net8.0\SchoolManagement.Domain.pdb
+C:\Users\DELL\source\repos\SchoolMangement\SchoolManagement.Domain\obj\Debug\net8.0\ref\SchoolManagement.Domain.dll

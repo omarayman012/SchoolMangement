@@ -1,42 +1,41 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\omar\\Desktop\\new nos5a\\SchoolManagement\\SchoolManagement\\SchoolManagement.csproj": {}
+    "C:\\Users\\DELL\\source\\repos\\SchoolMangement\\SchoolManagement\\SchoolManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\omar\\Desktop\\new nos5a\\SchoolManagement\\SchoolManagement.Application\\SchoolManagement.Application.csproj": {
+    "C:\\Users\\DELL\\source\\repos\\SchoolMangement\\SchoolManagement.Application\\SchoolManagement.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\omar\\Desktop\\new nos5a\\SchoolManagement\\SchoolManagement.Application\\SchoolManagement.Application.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\SchoolMangement\\SchoolManagement.Application\\SchoolManagement.Application.csproj",
         "projectName": "SchoolManagement.Application",
-        "projectPath": "C:\\Users\\omar\\Desktop\\new nos5a\\SchoolManagement\\SchoolManagement.Application\\SchoolManagement.Application.csproj",
-        "packagesPath": "C:\\Users\\omar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\omar\\Desktop\\new nos5a\\SchoolManagement\\SchoolManagement.Application\\obj\\",
+        "projectPath": "C:\\Users\\DELL\\source\\repos\\SchoolMangement\\SchoolManagement.Application\\SchoolManagement.Application.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELL\\source\\repos\\SchoolMangement\\SchoolManagement.Application\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\omar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\omar\\Desktop\\new nos5a\\SchoolManagement\\SchoolManagement.Domain\\SchoolManagement.Domain.csproj": {
-                "projectPath": "C:\\Users\\omar\\Desktop\\new nos5a\\SchoolManagement\\SchoolManagement.Domain\\SchoolManagement.Domain.csproj"
+              "C:\\Users\\DELL\\source\\repos\\SchoolMangement\\SchoolManagement.Domain\\SchoolManagement.Domain.csproj": {
+                "projectPath": "C:\\Users\\DELL\\source\\repos\\SchoolMangement\\SchoolManagement.Domain\\SchoolManagement.Domain.csproj"
               },
-              "C:\\Users\\omar\\Desktop\\new nos5a\\SchoolManagement\\SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\omar\\Desktop\\new nos5a\\SchoolManagement\\SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj"
+              "C:\\Users\\DELL\\source\\repos\\SchoolMangement\\SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\DELL\\source\\repos\\SchoolMangement\\SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj"
               }
             }
           }
@@ -50,8 +49,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -78,32 +76,31 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\omar\\Desktop\\new nos5a\\SchoolManagement\\SchoolManagement.Domain\\SchoolManagement.Domain.csproj": {
+    "C:\\Users\\DELL\\source\\repos\\SchoolMangement\\SchoolManagement.Domain\\SchoolManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\omar\\Desktop\\new nos5a\\SchoolManagement\\SchoolManagement.Domain\\SchoolManagement.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\SchoolMangement\\SchoolManagement.Domain\\SchoolManagement.Domain.csproj",
         "projectName": "SchoolManagement.Domain",
-        "projectPath": "C:\\Users\\omar\\Desktop\\new nos5a\\SchoolManagement\\SchoolManagement.Domain\\SchoolManagement.Domain.csproj",
-        "packagesPath": "C:\\Users\\omar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\omar\\Desktop\\new nos5a\\SchoolManagement\\SchoolManagement.Domain\\obj\\",
+        "projectPath": "C:\\Users\\DELL\\source\\repos\\SchoolMangement\\SchoolManagement.Domain\\SchoolManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELL\\source\\repos\\SchoolMangement\\SchoolManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\omar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -121,8 +118,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -143,40 +139,39 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\omar\\Desktop\\new nos5a\\SchoolManagement\\SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj": {
+    "C:\\Users\\DELL\\source\\repos\\SchoolMangement\\SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\omar\\Desktop\\new nos5a\\SchoolManagement\\SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\SchoolMangement\\SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj",
         "projectName": "SchoolManagement.Infrastructure",
-        "projectPath": "C:\\Users\\omar\\Desktop\\new nos5a\\SchoolManagement\\SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\omar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\omar\\Desktop\\new nos5a\\SchoolManagement\\SchoolManagement.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\DELL\\source\\repos\\SchoolMangement\\SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELL\\source\\repos\\SchoolMangement\\SchoolManagement.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\omar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\omar\\Desktop\\new nos5a\\SchoolManagement\\SchoolManagement.Domain\\SchoolManagement.Domain.csproj": {
-                "projectPath": "C:\\Users\\omar\\Desktop\\new nos5a\\SchoolManagement\\SchoolManagement.Domain\\SchoolManagement.Domain.csproj"
+              "C:\\Users\\DELL\\source\\repos\\SchoolMangement\\SchoolManagement.Domain\\SchoolManagement.Domain.csproj": {
+                "projectPath": "C:\\Users\\DELL\\source\\repos\\SchoolMangement\\SchoolManagement.Domain\\SchoolManagement.Domain.csproj"
               }
             }
           }
@@ -190,8 +185,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -234,43 +228,42 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\omar\\Desktop\\new nos5a\\SchoolManagement\\SchoolManagement\\SchoolManagement.csproj": {
+    "C:\\Users\\DELL\\source\\repos\\SchoolMangement\\SchoolManagement\\SchoolManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\omar\\Desktop\\new nos5a\\SchoolManagement\\SchoolManagement\\SchoolManagement.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\SchoolMangement\\SchoolManagement\\SchoolManagement.csproj",
         "projectName": "SchoolManagement",
-        "projectPath": "C:\\Users\\omar\\Desktop\\new nos5a\\SchoolManagement\\SchoolManagement\\SchoolManagement.csproj",
-        "packagesPath": "C:\\Users\\omar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\omar\\Desktop\\new nos5a\\SchoolManagement\\SchoolManagement\\obj\\",
+        "projectPath": "C:\\Users\\DELL\\source\\repos\\SchoolMangement\\SchoolManagement\\SchoolManagement.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELL\\source\\repos\\SchoolMangement\\SchoolManagement\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\omar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\omar\\Desktop\\new nos5a\\SchoolManagement\\SchoolManagement.Application\\SchoolManagement.Application.csproj": {
-                "projectPath": "C:\\Users\\omar\\Desktop\\new nos5a\\SchoolManagement\\SchoolManagement.Application\\SchoolManagement.Application.csproj"
+              "C:\\Users\\DELL\\source\\repos\\SchoolMangement\\SchoolManagement.Application\\SchoolManagement.Application.csproj": {
+                "projectPath": "C:\\Users\\DELL\\source\\repos\\SchoolMangement\\SchoolManagement.Application\\SchoolManagement.Application.csproj"
               },
-              "C:\\Users\\omar\\Desktop\\new nos5a\\SchoolManagement\\SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\omar\\Desktop\\new nos5a\\SchoolManagement\\SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj"
+              "C:\\Users\\DELL\\source\\repos\\SchoolMangement\\SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\DELL\\source\\repos\\SchoolMangement\\SchoolManagement.Infrastructure\\SchoolManagement.Infrastructure.csproj"
               }
             }
           }
@@ -284,8 +277,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -331,7 +323,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

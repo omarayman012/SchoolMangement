@@ -15,3 +15,21 @@ C:\Users\omar\Desktop\new nos5a\SchoolManagement\SchoolManagement.Application\ob
 C:\Users\omar\Desktop\new nos5a\SchoolManagement\SchoolManagement.Application\obj\Debug\net8.0\ref\SchoolManagement.Application.dll
 C:\Users\omar\Desktop\new nos5a\SchoolManagement\SchoolManagement.Application\bin\Debug\net8.0\SchoolManagement.Infrastructure.dll
 C:\Users\omar\Desktop\new nos5a\SchoolManagement\SchoolManagement.Application\bin\Debug\net8.0\SchoolManagement.Infrastructure.pdb
+C:\Users\DELL\source\repos\SchoolMangement\SchoolManagement.Application\obj\Debug\net8.0\SchoolManagement.Application.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\SchoolMangement\SchoolManagement.Application\obj\Debug\net8.0\SchoolManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\SchoolMangement\SchoolManagement.Application\obj\Debug\net8.0\SchoolManagement.Application.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\SchoolMangement\SchoolManagement.Application\obj\Debug\net8.0\SchoolManagement.Application.AssemblyInfo.cs
+C:\Users\DELL\source\repos\SchoolMangement\SchoolManagement.Application\obj\Debug\net8.0\SchoolManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\SchoolMangement\SchoolManagement.Application\obj\Debug\net8.0\SchoolManagement.Application.sourcelink.json
+C:\Users\DELL\source\repos\SchoolMangement\SchoolManagement.Application\obj\Debug\net8.0\SchoolManagement.Application.dll
+C:\Users\DELL\source\repos\SchoolMangement\SchoolManagement.Application\obj\Debug\net8.0\refint\SchoolManagement.Application.dll
+C:\Users\DELL\source\repos\SchoolMangement\SchoolManagement.Application\obj\Debug\net8.0\SchoolManagement.Application.pdb
+C:\Users\DELL\source\repos\SchoolMangement\SchoolManagement.Application\bin\Debug\net8.0\SchoolManagement.Application.deps.json
+C:\Users\DELL\source\repos\SchoolMangement\SchoolManagement.Application\bin\Debug\net8.0\SchoolManagement.Application.dll
+C:\Users\DELL\source\repos\SchoolMangement\SchoolManagement.Application\bin\Debug\net8.0\SchoolManagement.Application.pdb
+C:\Users\DELL\source\repos\SchoolMangement\SchoolManagement.Application\bin\Debug\net8.0\SchoolManagement.Domain.dll
+C:\Users\DELL\source\repos\SchoolMangement\SchoolManagement.Application\bin\Debug\net8.0\SchoolManagement.Infrastructure.dll
+C:\Users\DELL\source\repos\SchoolMangement\SchoolManagement.Application\bin\Debug\net8.0\SchoolManagement.Domain.pdb
+C:\Users\DELL\source\repos\SchoolMangement\SchoolManagement.Application\bin\Debug\net8.0\SchoolManagement.Infrastructure.pdb
+C:\Users\DELL\source\repos\SchoolMangement\SchoolManagement.Application\obj\Debug\net8.0\SchoolMa.1175F4A4.Up2Date
+C:\Users\DELL\source\repos\SchoolMangement\SchoolManagement.Application\obj\Debug\net8.0\ref\SchoolManagement.Application.dll
